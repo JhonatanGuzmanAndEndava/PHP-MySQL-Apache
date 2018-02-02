@@ -16,7 +16,7 @@ $statement = $pdo->query("SELECT * FROM members");
 
 
 while($row = $statement->fetch(PDO::FETCH_ASSOC)) {
-	echo $row['idmembers'].". ".$row['name']."<br>";
+	echo $row['idmembers'].". ".$row['name']." ".$row['enterprise']."<br>";
 }
 
 ?>
