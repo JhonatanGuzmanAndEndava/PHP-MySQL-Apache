@@ -6,7 +6,7 @@ Bonus: MariaDB + NGINX
 
 ## Getting Started
 
-You need to install and configurate necessary tools. These instructions are **just for Windows users**
+You need to install and configure necessary tools. These instructions are **just for Windows users**
 
 Please download software here: 
 
